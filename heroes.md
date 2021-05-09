@@ -9,3 +9,4 @@
 * Volcán Negro
 * Atom
 * Flecha Verde
+* Canario Negro

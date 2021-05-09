@@ -6,3 +6,4 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 7. Contactar con SuperGirl
+8. Ayudar a Aquaman en su misión de rescate
